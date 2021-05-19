@@ -16,9 +16,9 @@
 
 ## Current Projects
 
-- 🖥 [Discord Bot Guide](https://deepwebdevelopers.github.io/discord-bot-guide/)
-- 🌠 [Taminaru Discord Bot](https://taminaru.github.io/site/)
-- 🐶 [DogeCord](https://github.com/taminaru/dogecord)
+- 🖥 [Discord Bot Guide](https://deepwebdevelopers.github.io/discord-bot-guide/) 🟡 A universal Discord bot guide.
+- 🌠 [Taminaru Discord Bot](https://taminaru.github.io/site/) 🔵 A Discord bot.
+- 🐶 [DogeCord](https://github.com/taminaru/dogecord) 🔴 A Discord FrameWork written in JavaScript.
 
 ### Connect with me:
 
