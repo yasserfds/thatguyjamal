@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning JavaScript, C, Reactjs, Nodejs
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Launch [Taminaru](https://github.com/taminaru) / JavaScript game dev 😅
-- ⚡ Fun fact: I love to ride dirk bikes and
+- 🥅 2021 Goals: Launch [Taminaru](https://github.com/taminaru) & Make $
+- ⚡ Fun fact: I love to ride dirk bikes and watch Ecchi anime
 
 ### Spotify Playing 🎧
 
