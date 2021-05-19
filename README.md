@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning JavaScript, C, Reactjs, Nodejs
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Launch [Taminaru](https://github.com/taminaru) & Make $
+- 🥅 2021 Goals: Launch [Taminaru](https://github.com/taminaru) & Make 💸
 - ⚡ Fun fact: I love to ride dirk bikes and watch Ecchi anime
 
 ### Spotify Playing 🎧
@@ -19,6 +19,13 @@
 - 🖥 [Discord Bot Guide](https://deepwebdevelopers.github.io/discord-bot-guide/) 🟡 A universal Discord bot guide.
 - 🌠 [Taminaru Discord Bot](https://taminaru.github.io/site/) 🔵 A Discord bot.
 - 🐶 [DogeCord](https://github.com/taminaru/dogecord) 🔴 A Discord FrameWork written in JavaScript.
+
+### Future projects / goals  
+- Make my own crypto
+- Built a working full stack site that is useful
+- Intern at a software company
+- Find a Girl-friend who likes software like me.
+- Learn TypeScript
 
 ### Connect with me:
 
