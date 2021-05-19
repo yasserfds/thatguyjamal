@@ -1,3 +1,0 @@
-# My Resume
-
-Coming soon...
