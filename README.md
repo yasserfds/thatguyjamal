@@ -2,6 +2,7 @@
 
 [![discord](https://img.shields.io/discord/771507203647209482?style=for-the-badge)](https://discord.com/invite/NbqBQbaejS)
 [![youtube](https://img.shields.io/youtube/channel/views/UCVOQobByo_2WISQf2037eXQ?style=for-the-badge)](https://www.youtube.com/channel/UCVOQobByo_2WISQf2037eXQ)
+<img src="https://tokei.rs/b1/github/ThatGuyJamal/thatguyjamal?category=lines"></img>
 
 ## I'm a Student, Brother, Developer, and YouTuber!!
 
@@ -79,21 +80,9 @@
 
 ---
 
-<details>
-  <summary>⚡Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyJamal&layout=compact&theme=dark)
 
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="ThatGuyJamal's GitHub Stats" src="https://github-readme-stats.ThatGuyJamal.vercel.app/api?username=ThatGuyJamal&show_icons=true&hide_border=true" />
-
-</details>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJamal&count_private=true&show_icons=true&theme=dark)
 
 [website]: https://github.com/ThatGuyJamal
 [course]: https://github.com/ThatGuyJamal
