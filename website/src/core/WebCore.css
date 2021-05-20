@@ -1,0 +1,26 @@
+/* Global css used in all files! */
+
+/* A list of colors can be found in ../components/style/colors.ts */
+
+:root {
+  --orange: #f66a0a;
+  --black: #1b1f23;
+  --snow_white: #fafbfc;
+  --purple_link: #f9b3dd;
+}
+
+body {
+  background-color: var(--black);
+}
+
+h1 {
+  color: var(--snow_white);
+}
+
+p {
+  color: var(--snow_white);
+}
+
+a {
+  color: var(--purple_link);
+}
