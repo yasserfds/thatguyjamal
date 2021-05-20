@@ -8,8 +8,8 @@ import "./WebCore.css";
  */
 import RouterCore from "../routes/router";
 
-function App() {
-  return <RouterCore></RouterCore>;
+function WebCore() {
+	return <RouterCore></RouterCore>;
 }
 
-export default App;
+export default WebCore;
