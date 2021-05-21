@@ -80,9 +80,7 @@
 
 ---
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyJamal&layout=compact&theme=dark)
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJamal&count_private=true&show_icons=true&theme=dark)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyJamal&layout=compact&theme=dark) ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJamal&count_private=true&show_icons=true&theme=dark)
 
 [website]: https://github.com/ThatGuyJamal
 [course]: https://github.com/ThatGuyJamal
