@@ -3,15 +3,11 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import WebCore from "./core/WebCore";
 import reportWebVitals from "./test/reportWebVitals";
-import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* HashRouter covers the whole app */}
-    <HashRouter>
       {/* Importing the core */}
       <WebCore />
-    </HashRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );
