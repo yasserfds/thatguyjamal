@@ -4,7 +4,7 @@
 [![youtube](https://img.shields.io/youtube/channel/views/UCVOQobByo_2WISQf2037eXQ?style=for-the-badge)](https://www.youtube.com/channel/UCVOQobByo_2WISQf2037eXQ)
 <img src="https://tokei.rs/b1/github/ThatGuyJamal/thatguyjamal?category=lines"></img>
 
-## I'm a Student, Brother, Developer, and YouTuber!!
+## I'm a Student, Developer, and YouTuber!!
 
 - 🌱 I’m currently learning JavaScript, C, Reactjs, Nodejs
 - 👯 I’m looking to collaborate with other content creators and developers.
