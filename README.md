@@ -19,14 +19,12 @@
 
 - 🖥 [Discord Bot Guide](https://deepwebdevelopers.github.io/discord-bot-guide/) 🟡 A universal Discord bot guide.
 - 🌠 [Taminaru Discord Bot](https://taminaru.github.io/site/) 🔵 A Discord bot.
-- 🐶 [DogeCord](https://github.com/taminaru/dogecord) 🔴 A Discord FrameWork written in JavaScript.
+- 🐶 [null](/) 🔴 pending...
 
 ### Future projects / goals  
 - Make my own crypto
-- Built a working full stack site that is useful
-- Intern at a software company
-- Find a Girl-friend who likes software like me.
-- Learn TypeScript
+- making something useful with my skills
+- have fun coding and teach others!
 
 ### Connect with me:
 
