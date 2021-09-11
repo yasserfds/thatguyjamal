@@ -6,20 +6,18 @@
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning JavaScript, C, Reactjs, Nodejs
+- 🌱 I’m currently learning TypeScript, Deno, and Reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Launch [Taminaru](https://github.com/taminaru) & Make 💸
-- ⚡ Fun fact: I love to ride dirk bikes and watch Ecchi anime
+- 🥅 2021 Goals: Launch [Succubus District](https://github.com/Succubus-Developments) & Make 💸
+- ⚡ Fun fact: I love to ride dirk bike, reading manga, and watching anime.
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/) -->
 
 ## Current Projects
 
-- 🖥 [Discord Bot Guide](https://deepwebdevelopers.github.io/discord-bot-guide/) 🟡 A universal Discord bot guide.
-- 🌠 [Taminaru Discord Bot](https://taminaru.github.io/site/) 🔵 A Discord bot.
-- 🐶 [null](/) 🔴 pending...
+- 😡 [Succubus District](https://succubus-developments.github.io/succubus-district/) 🔵 A Discord bot for the cultured.
 
 ### Future projects / goals  
 - Make my own crypto
@@ -54,7 +52,7 @@
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 <!-- [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist] -->
 <!-- [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist] -->
 
