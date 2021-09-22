@@ -6,7 +6,7 @@
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning TypeScript, Deno, and Reactjs.
+- 🌱 I’m currently learning TypeScript, Svelte, and Reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2021 Goals: Launch [Succubus District](https://github.com/Succubus-Developments) & Make 💸
 - ⚡ Fun fact: I love to ride dirk bike, reading manga, and watching anime.
