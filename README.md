@@ -18,6 +18,7 @@
 ## Current Projects
 
 - 😡 [Succubus District](https://succubus-developments.github.io/succubus-district/) 🔵 A Discord bot for the cultured.
+- 🌟 [Sneaky.css](https://github.com/ThatGuyJamal/sneaky.css) 🟣 A CSS library for quick utilites.
 
 ### Future projects / goals  
 - Make my own crypto
