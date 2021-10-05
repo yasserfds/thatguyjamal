@@ -1,5 +1,9 @@
 :root {
 	color-scheme: light dark; /* both supported */
+	--orange: #f66a0a;
+	--black: #1b1f23;
+	--snow_white: #fafbfc;
+	--purple_link: #f9b3dd;
 }
 
 html {
@@ -13,19 +17,18 @@ html {
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 		text-align: center;
-		margin-top: 60px;
-		background: var(--bkg-color);
-		--text-color: #1b1f23;
-		--bkg-color: #fff;
+		// background: var(--bkg-color);
+		// --text-color: #1b1f23;
+		// --bkg-color: #fff;
 		.dark-theme {
 			--text-color: #eee;
-			--bkg-color: #121212;
+			--bkg-color: #1b1f23;
 		}
 		@media (prefers-color-scheme: dark) {
 			/* defaults to dark theme */
 			body {
 				--text-color: #eee;
-				--bkg-color: #121212;
+				--bkg-color: #1b1f23;
 				.code {
 					background: #fff;
 					border-radius: 5px;
@@ -70,5 +73,21 @@ html {
 
 	* {
 		box-sizing: border-box;
+	}
+
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+
+	@keyframes gradient {
+		0% {
+			background-position: 0% 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0% 50%;
+		}
 	}
 }

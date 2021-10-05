@@ -21,28 +21,13 @@ $smooth-black-color: #1b1f23;
 	align-items: center;
 }
 
-.footer {
-	display: flex;
-	flex: 1;
-	padding: 2rem 0;
-	border-top: 1px solid $secondary-color;
-	justify-content: center;
-	align-items: center;
-
-	a {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		flex-grow: 1;
-	}
-}
 .title {
 	text-align: center;
 	margin: 0;
 	line-height: 1.15;
 	font-size: 4rem;
 	a {
-		color: $link-color;
+		color: $smooth-black-color;
 		text-decoration: none;
 	}
 	a:hover,
@@ -56,7 +41,6 @@ $smooth-black-color: #1b1f23;
 	font-size: 1.5rem;
 	text-align: center;
 }
-
 
 .grid {
 	display: flex;

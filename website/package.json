@@ -1,18 +1,23 @@
 {
-  "name": "website",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^2.6.0"
-  },
-  "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-purgecss": "^4.0.3",
-    "gulp-sass": "^5.0.0",
-    "sass": "^1.42.1"
-  }
+	"name": "website",
+	"version": "0.3.0",
+	"description": "Portfolio of thatguyjamal",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ThatGuyJamal/ThatGuyJamal"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview"
+	},
+	"devDependencies": {
+		"vite": "^2.6.0"
+	},
+	"dependencies": {
+		"gulp": "^4.0.2",
+		"gulp-purgecss": "^4.0.3",
+		"gulp-sass": "^5.0.0",
+		"sass": "^1.42.1"
+	}
 }
