@@ -1,0 +1,100 @@
+@import "../interfaces/device.scss";
+
+$primary-color: blueviolet;
+$secondary-color: white;
+$bg-color: black;
+$link-color: rgb(255, 85, 85);
+$grid-color: #84d7dd;
+$smooth-black-color: #1b1f23;
+
+.container {
+	padding: 0 2rem;
+}
+.main {
+	min-height: 100vh;
+	padding: 4rem 0;
+	flex: 1;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	align-items: center;
+}
+
+.footer {
+	display: flex;
+	flex: 1;
+	padding: 2rem 0;
+	border-top: 1px solid $secondary-color;
+	justify-content: center;
+	align-items: center;
+
+	a {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-grow: 1;
+	}
+}
+.title {
+	text-align: center;
+	margin: 0;
+	line-height: 1.15;
+	font-size: 4rem;
+	a {
+		color: $link-color;
+		text-decoration: none;
+	}
+	a:hover,
+	a:focus a:active {
+		text-decoration: underline;
+	}
+}
+.description {
+	margin: 4rem 0;
+	line-height: 1.5;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+
+.grid {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	max-width: 800px;
+	@include device_css_check() {
+		.grid {
+			width: 100%;
+			flex-direction: column;
+		}
+	}
+}
+
+.card {
+	margin: 1rem;
+	padding: 1.5rem;
+	text-align: left;
+	color: inherit;
+	text-decoration: none;
+	border: 1px solid #eaeaea;
+	border-radius: 10px;
+	transition: color 0.15s ease, border-color 0.15s ease;
+	max-width: 300px;
+	h2 {
+		margin: 0 0 1rem 0;
+		font-size: 1.5rem;
+	}
+	p {
+		margin: 0;
+		font-size: 1.25rem;
+		line-height: 1.5;
+	}
+}
+.card:hover,
+.card:focus,
+.card:active {
+	color: $grid-color;
+	border-color: $grid-color;
+}

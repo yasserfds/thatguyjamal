@@ -1,0 +1,74 @@
+:root {
+	color-scheme: light dark; /* both supported */
+}
+
+html {
+	body {
+		padding: 0;
+		margin: 0;
+		font-family: Avenir, Helvetica, Arial, sans-serif, -apple-system,
+			BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
+			Droid Sans, Helvetica Neue, sans-serif;
+
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		text-align: center;
+		margin-top: 60px;
+		background: var(--bkg-color);
+		--text-color: #1b1f23;
+		--bkg-color: #fff;
+		.dark-theme {
+			--text-color: #eee;
+			--bkg-color: #121212;
+		}
+		@media (prefers-color-scheme: dark) {
+			/* defaults to dark theme */
+			body {
+				--text-color: #eee;
+				--bkg-color: #121212;
+				.code {
+					background: #fff;
+					border-radius: 5px;
+					padding: 0.75rem;
+					font-size: 1.1rem;
+					font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+						DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+				}
+			}
+			body.light-theme {
+				--text-color: #1b1f23;
+				--bkg-color: #fff;
+				.code {
+					background: #1b1f23;
+					border-radius: 5px;
+					padding: 0.75rem;
+					font-size: 1.1rem;
+					font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+						DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+				}
+			}
+
+			img {
+				filter: brightness(0.8) contrast(1.2);
+			}
+		}
+		p,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: var(--text-color);
+		}
+	}
+
+	a {
+		color: inherit;
+		text-decoration: none;
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+}
