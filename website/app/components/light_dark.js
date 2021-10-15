@@ -1,24 +1,21 @@
-const btn = document.querySelector(".btn-toggle")
-const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)")
+// Wait for document to load
+document.addEventListener("DOMContentLoaded", function (event) {
+	document.documentElement.setAttribute("data-theme", "light")
 
-const currentTheme = localStorage.getItem("theme")
-if (currentTheme == "dark") {
-	document.body.classList.toggle("dark-theme")
-} else if (currentTheme == "light") {
-	document.body.classList.toggle("light-theme")
-}
+	// Get our button switcher
+	var themeSwitcher = document.getElementById("theme-switcher")
 
-btn.addEventListener("click", function () {
-	if (prefersDarkScheme.matches) {
-		document.body.classList.toggle("light-theme")
-		var theme = document.body.classList.contains("light-theme")
-			? "light"
-			: "dark"
-	} else {
-		document.body.classList.toggle("dark-theme")
-		var theme = document.body.classList.contains("dark-theme")
-			? "dark"
-			: "light"
+	// When our button gets clicked
+	themeSwitcher.onclick = function () {
+		// Get the current selected theme, on the first run
+		// it should be `light`
+		var currentTheme = document.documentElement.getAttribute("data-theme")
+
+		// Switch between `dark` and `light`
+		var switchToTheme = currentTheme === "dark" ? "light" : "dark"
+
+		// Set our currenet theme to the new one
+		document.documentElement.setAttribute("data-theme", switchToTheme)
+		console.log("Theme switch function ran!")
 	}
-	localStorage.setItem("theme", theme)
 })

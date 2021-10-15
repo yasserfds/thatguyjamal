@@ -1,6 +1,8 @@
 import "../../css/index.css"
 
-document.querySelector("#footer").innerHTML = `
+const app: Element = document.querySelector("#footer")
+
+app.innerHTML = `
    <div>
           <div class="footer">
             <div class="content_flex">

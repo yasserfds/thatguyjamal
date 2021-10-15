@@ -1,88 +1,37 @@
 .footer {
-  position: relative;
-  text-align: center;
-  /* background: linear-gradient(
+	position: relative;
+	text-align: center;
+	/* background: linear-gradient(
 		60deg,
 		rgba(84, 58, 183, 1) 0%,
 		rgba(0, 172, 193, 1) 100%
 	); */
-  color: var(--snow_white);
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+	color: var(--snow_white);
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
 }
 
 .content_flex p {
 	font-family: "Lato", sans-serif;
 	letter-spacing: 1px;
-	font-size: 14px;
+	font-size: 0.91rem;
 	color: var(--snow_white);
 	/* Neon affect on header text */
 	text-shadow: 0 0 7px var(--snow_white), 0 0 10px var(--snow_white),
-		0 0 21px var(--snow_white), 0 0 42px var(--orange), 0 0 82px var(--orange),
-		0 0 92px var(--orange), 0 0 102px var(--orange), 0 0 151px var(--orange);
-	p:hover {
-		font-size: 15px;
-		transition: 0.7s;
-	}
+		0 0 21px var(--snow_white), 0 0 42px var(--black), 0 0 82px var(--black),
+		0 0 92px var(--black), 0 0 102px var(--black), 0 0 151px var(--black);
 }
 
-.waves {
-	position: relative;
-	width: 100%;
-	height: 15vh;
-	margin-bottom: -7px; /*Fix for safari gap*/
-	min-height: 100px;
-	max-height: 150px;
+.content_flexp:hover {
+	font-size: 1.2rem;
+	transition: 0.7s;
 }
 
-.content {
-	position: relative;
-	height: 20vh;
-	text-align: center;
-	background-color: var(--snow_white);
-}
-
-/* Animation */
-
-.parallax > use {
-	animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
-}
-.parallax > use:nth-child(1) {
-	animation-delay: -2s;
-	animation-duration: 7s;
-}
-.parallax > use:nth-child(2) {
-	animation-delay: -3s;
-	animation-duration: 10s;
-}
-.parallax > use:nth-child(3) {
-	animation-delay: -4s;
-	animation-duration: 13s;
-}
-.parallax > use:nth-child(4) {
-	animation-delay: -5s;
-	animation-duration: 20s;
-}
-@keyframes move-forever {
-	0% {
-		transform: translate3d(-90px, 0, 0);
-	}
-	100% {
-		transform: translate3d(85px, 0, 0);
-	}
-}
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
-	.waves {
-		height: 40px;
-		min-height: 40px;
-	}
-	.content {
-		height: 30vh;
-	}
-	h1 {
-		font-size: 24px;
+	.content_flex p {
+		font-size: 0.51rem;
 	}
 }
