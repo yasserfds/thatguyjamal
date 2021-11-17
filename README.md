@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 😡 [Succubus District](https://github.com/lewd-labs) 🔵 A Discord bot for the cultured.
+- 😡 [Yoru](https://github.com/lewd-labs) 🔵 A Discord bot for the cultured humans of earth.
 - 🌟 [Sneaky.css](https://github.com/ThatGuyJamal/sneaky.css) 🟣 A CSS library for quick utilites.
 - 🤖[Fuwa.js](https://github.com/fuwajs) 🥇A lighweight and Typescript based Discord Lybrary. 
 
