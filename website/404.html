@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="./css/index.css" />
 		<link rel="stylesheet" href="./css/style.css" />
 		<meta name="color-scheme" content="dark light" />
+         <meta http-equiv="refresh" content="0; url=http://example.com">
 		<title>Error</title>
 	</head>
 	<body>
@@ -15,14 +16,16 @@
         </h1>
         <div class="container">
             <div class="main">
-
                 <div class="grid">
-                            <a href="./index.html" class="card">
-                                <h2>Secrets &rarr;</h2>
-                                <p>A link to some fun experiments, code, and more!</p>
-                            </a>
-                        </div>
+                     If you are not redirected automatically, follow this <a href='http://example.com'>link to example</a>.
+                </div>
             </div>
         </div>
     </body>
+         <script type="text/javascript">
+             // Wait 5 sec to redirect to home page
+        setTimeout(()=> {
+            window.location.href = 'https://thatguyjamal.vercel.app/'
+        }, 5)
+        </script>
 </html>
