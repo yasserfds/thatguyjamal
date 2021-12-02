@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning TypeScript, Svelte, and Reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Launch [Succubus District](https://github.com/lewd-labs) & Make 💸
+- 🥅 2021 Goals: Launch the [Yoru](https://github.com/lewd-labs/yoru-mirror) discord bot & Make 💸
 - ⚡ Fun fact: I love to ride dirk bike, reading manga, and watching anime.
 
 <!-- ### Spotify Playing 🎧
