@@ -1,13 +1,18 @@
 const { resolve } = require('path')
 const { defineConfig } = require('vite')
 
+/**
+ * @type {import('vite').UserConfig}
+ */
 module.exports = defineConfig({
+    root: resolve(__dirname, './app'),
     build: {
         outDir: resolve(__dirname, './out'),
         rollupOptions: {
             input: {
-                main: resolve(__dirname, 'index.html'),
-                nested: resolve(__dirname, 'nested/index.html')
+                main: resolve(__dirname, './app/index.html'),
+                about: resolve(__dirname, './app/page/about.html'),
+                projects: resolve(__dirname, './app/page/projects.html'),
             }
         },
         watch: {

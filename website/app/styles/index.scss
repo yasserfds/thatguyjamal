@@ -1,9 +1,9 @@
 // All the css files in one export for gulp compile
-@import "./components/github.scss";
-@import "./modules/home";
-@import "./modules/_color";
-@import "./modules/footer.scss";
-@import "./modules/animations";
+@import "components/github";
+@import "modules/home";
+@import "modules/color";
+@import "modules/footer";
+@import "modules/animations";
 
 :root {
   color-scheme: light dark; /* both supported */

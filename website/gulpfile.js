@@ -8,13 +8,13 @@ const purgecss = require("gulp-purgecss");
 function buildStyles() {
   // file to read when compiling
   return (
-    src("./styles/**/*.scss")
+    src("./app/styles/**/*.scss")
       // input source file into compiler to turn into css
       .pipe(sass({ outputStyle: "compressed" }))
       // remove un used css classes before compiling
       .pipe(purgecss({ content: ["*.html"] }))
       // where to send the compiled css to
-      .pipe(dest("./css"))
+      .pipe(dest("./app/css"))
   );
 }
 
@@ -23,7 +23,7 @@ function buildStyles() {
  */
 function watchTask() {
   // function to run when file changes
-  watch(["./styles/**/*.scss", "*.html"], buildStyles);
+  watch(["./app/styles/**/*.scss", "*.html"], buildStyles);
 }
 
 /**
