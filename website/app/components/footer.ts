@@ -1,6 +1,6 @@
-import "../../css/index.css"
+import "../../css/index.css";
 
-const app: Element = document.querySelector("#footer")
+const app: Element = document.querySelector("#footer");
 
 app.innerHTML = `
    <div>
@@ -11,4 +11,4 @@ app.innerHTML = `
           </div>
         </div>
       </>
-`
+`;
