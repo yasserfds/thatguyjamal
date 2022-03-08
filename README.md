@@ -6,10 +6,10 @@
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning TypeScript, Svelte, and Reactjs.
+- 🌱 I’m currently learning TypeScript, Deno, and Reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Launch the [Yoru](https://github.com/lewd-labs/yoru-mirror) discord bot & Make 💸
-- ⚡ Fun fact: I love to ride dirk bike, reading manga, and watching anime.
+- 🥅 2022 Goals: Complete [Yoru RPG](https://github.com/lewd-labs/yoru-mirror) discord bot & master more full stack technologies!
+- ⚡ Fun fact: I love watching and reading anime, as well as playing video games and exploring outdoors.
 
 <!-- ### Spotify Playing 🎧
 
@@ -22,9 +22,9 @@
 - 🤖[Fuwa.js](https://github.com/fuwajs) 🥇A lighweight and Typescript based Discord Lybrary. 
 
 ### Future projects / goals  
-- Make my own crypto
-- making something useful with my skills
-- have fun coding and teach others!
+- Make my own cryptocurrency 💰
+- start my own company with other developers 💼
+- have a full/part-time YouTube channel dedicated to programming topics and informational content 📺
 
 ### Connect with me:
 
