@@ -4,11 +4,29 @@
 [![youtube](https://img.shields.io/youtube/channel/views/UCVOQobByo_2WISQf2037eXQ?style=for-the-badge)](https://www.youtube.com/channel/UCVOQobByo_2WISQf2037eXQ)
 <img src="https://tokei.rs/b1/github/ThatGuyJamal/thatguyjamal?category=lines"></img>
 
+<img height="350" src="zero_two.svg" align="right"/>
+
+<br/>
+
+```
+__________                    ___________                  
+\____    /___________  ____   \__    ___/_  _  ______      
+  /     // __ \_  __ \/  _ \    |    |  \ \/ \/ /  _ \     
+ /     /\  ___/|  | \(  <_> )   |    |   \     (  <_> )    
+/_______ \___  >__|   \____/    |____|    \/\_/ \____/     
+        \/   \/                                            
+__________                 __      ________.__       .__   
+\______   \ ____   _______/  |_   /  _____/|__|______|  |  
+ |    |  _// __ \ /  ___/\   __\ /   \  ___|  \_  __ \  |  
+ |    |   \  ___/ \___ \  |  |   \    \_\  \  ||  | \/  |__
+ |______  /\___  >____  > |__|    \______  /__||__|  |____/
+        \/     \/     \/                 \/                
+```
+
 ## I'm a Student, Developer, and YouTuber!!
 
 - 🌱 I’m currently learning TypeScript, Deno, and Reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Complete [Yoru RPG](https://github.com/lewd-labs/yoru-mirror) discord bot & master more full stack technologies!
 - ⚡ Fun fact: I love watching and reading anime, as well as playing video games and exploring outdoors.
 
 <!-- ### Spotify Playing 🎧
@@ -17,14 +35,12 @@
 
 ## Current Projects
 
-- 😡 [Yoru](https://github.com/lewd-labs) 🔵 A Discord bot for the cultured humans of earth.
-- 🌟 [Sneaky.css](https://github.com/ThatGuyJamal/sneaky.css) 🟣 A CSS library for quick utilites.
-- 🤖[Fuwa.js](https://github.com/fuwajs) 🥇A lighweight and Typescript based Discord Lybrary. 
+- 😡 [AkumaKodo](https://github.com/AkumaKodo) 🔵 A discord bot Command framework built on deno and typescript.
 
 ### Future projects / goals  
 - Make my own cryptocurrency 💰
 - start my own company with other developers 💼
-- have a full/part-time YouTube channel dedicated to programming topics and informational content 📺
+- have a full/part-time YouTube channel dedicated to programming topics and informational content, and anime 📺
 
 ### Connect with me:
 
