@@ -25,7 +25,7 @@ __________                 __      ________.__       .__
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning TypeScript, Deno, and Reactjs.
+- 🌱 I’m currently learning TypeScript, Deno, and rust.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - ⚡ Fun fact: I love watching and reading anime, as well as playing video games and exploring outdoors.
 
