@@ -36,6 +36,7 @@ __________                 __      ________.__       .__
 ## Current Projects
 
 - 😡 [AkumaKodo](https://github.com/AkumaKodo) 🔵 A discord bot Command framework built on deno and typescript.
+- 🤖 [Stats hub](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A statistics discord bot for your community and growth.
 
 ### Future projects / goals  
 - Make my own cryptocurrency 💰
