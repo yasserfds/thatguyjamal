@@ -37,6 +37,7 @@ __________                 __      ________.__       .__
 
 - 😡 [AkumaKodo](https://github.com/AkumaKodo) 🔵 A discord bot Command framework built on deno and typescript.
 - 🤖 [Stats hub](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A statistics discord bot for your community and growth.
+- 🐦 [The Phoenix Programming Language](https://github.com/phoenix-language/phoenix)
 
 ### Future projects / goals  
 - Make my own cryptocurrency 💰
