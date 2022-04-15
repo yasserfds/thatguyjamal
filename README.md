@@ -25,9 +25,9 @@ __________                 __      ________.__       .__
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning TypeScript, Deno, and rust.
+- 🌱 I’m currently learning TypeScript, golang, and reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- ⚡ Fun fact: I love watching and reading anime, as well as playing video games and exploring outdoors.
+- ⚡ For fun I love watching and reading anime, as well as playing video games and exploring outdoors.
 
 <!-- ### Spotify Playing 🎧
 
@@ -35,14 +35,14 @@ __________                 __      ________.__       .__
 
 ## Current Projects
 
-- 😡 [AkumaKodo](https://github.com/AkumaKodo) 🔵 A discord bot Command framework built on deno and typescript.
-- 🤖 [Stats hub](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A statistics discord bot for your community and growth.
-- 🐦 [The Phoenix Programming Language](https://github.com/phoenix-language/phoenix)
+- 🐦 [The Phoenix Programming Language](https://github.com/phoenix-language/phoenix) 🔴 A new and simple programming language.
+- 🤖 [Statistics Hub OSS](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A discord bot for community growth tracking.
+- 😡 [AkumaKodo](https://github.com/AkumaKodo) 🔵 A Discord bot Command framework built on deno and typescript.
 
 ### Future projects / goals  
 - Make my own cryptocurrency 💰
-- start my own company with other developers 💼
-- have a full/part-time YouTube channel dedicated to programming topics and informational content, and anime 📺
+- start my own company with other developers in the tech indestry 💼
+- have a full/part-time YouTube channel dedicated to programming topics and informational content 📺
 
 ### Connect with me:
 
@@ -96,7 +96,9 @@ __________                 __      ________.__       .__
 
 ---
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyJamal&layout=compact&theme=dark) ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJamal&count_private=true&show_icons=true&theme=dark)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyJamal&layout=compact&theme=radical&langs_count=10) 
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJamal&count_private=true&show_icons=true&theme=radical)
 
 [website]: https://thatguyjamal.vercel.app/
 [course]: https://github.com/ThatGuyJamal
