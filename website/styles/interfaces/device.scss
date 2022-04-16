@@ -1,5 +1,0 @@
-@mixin device_css_check() {
-  @media (max-width: 600px) {
-    @content;
-  }
-}
