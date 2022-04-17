@@ -4,7 +4,7 @@
 [![youtube](https://img.shields.io/youtube/channel/views/UCVOQobByo_2WISQf2037eXQ?style=for-the-badge)](https://www.youtube.com/channel/UCVOQobByo_2WISQf2037eXQ)
 <img src="https://tokei.rs/b1/github/ThatGuyJamal/thatguyjamal?category=lines"></img>
 
-<img height="350" src="zero_two.svg" align="right"/>
+<img height="350" src="./assets/zero_two.svg" align="right"/>
 
 <br/>
 
@@ -110,3 +110,6 @@ __________                 __      ________.__       .__
 [jsplaylist]: https://github.com/ThatGuyJamal
 [cssplaylist]: https://github.com/ThatGuyJamal
 [reactplaylist]: https://github.com/ThatGuyJamal
+
+*Github commit snake*
+<img src="./assets/github-contributions.svg" width="500" height="150" />
