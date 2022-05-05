@@ -36,8 +36,8 @@ __________                 __      ________.__       .__
 ## Current Projects
 
 - 🐦 [The Phoenix Programming Language](https://github.com/phoenix-language/phoenix) 🔴 A new and simple programming language.
-- 🤖 [Statistics Hub OSS](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A discord bot for community growth tracking.
-- 😡 [AkumaKodo](https://github.com/AkumaKodo) 🔵 A Discord bot Command framework built on deno and typescript.
+- 🤖 [Statistics Hub OSS](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A data analitics discord bot.
+- 😡 [JS-Book](https://github.com/ThatGuyJamal/js-book) 🔵 A book to help begginers learn JavaScript.
 
 ### Future projects / goals  
 - Make my own cryptocurrency 💰
