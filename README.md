@@ -36,7 +36,7 @@ __________                 __      ________.__       .__
 ## Current Projects
 
 - 🐦 [The Phoenix Programming Language](https://github.com/phoenix-language/phoenix) 🔴 A new and simple programming language.
-- 🤖 [Statistics Hub OSS](https://github.com/ThatGuyJamal/statshub-oss) 🟣 A data analitics discord bot.
+- 🤖 [Statistics Hub OSS](https://github.com/ThatGuyJamal/statistics-hub-oss) 🟣 A data analitics discord bot.
 - 😡 [JS-Book](https://github.com/ThatGuyJamal/js-book) 🔵 A book to help begginers learn JavaScript.
 
 ### Future projects / goals  
