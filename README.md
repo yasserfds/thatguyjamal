@@ -35,7 +35,7 @@ __________                 __      ________.__       .__
 
 ## Current Projects
 
-- 🤖 [Muck](https://github.com/ThatGuyJamal/muck-bot-djs) 🟣 A Discord Bot.
+- 🤖 [Discord Translator](https://github.com/ThatGuyJamal/Discord-Translator) 🟣 A Discord translation API.
 - 😡 [JS-Book](https://github.com/ThatGuyJamal/js-book) 🔵 A book to help new programmers learn JavaScript.
 
 ### Future projects / goals  
