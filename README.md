@@ -31,7 +31,8 @@ __________                 __      ________.__       .__
 
 ## Current Projects
 
-[Whisper Room](https://github.com/whisper-room-dev) - An Anonyms Chat Application
+[Touch Grass](https://github.com/ThatGuyJamal/Touch-Grass) - A 2d game made by me, built in rust!
+[Code Goblin](https://github.com/ThatGuyJamal/Code-Goblin) - A Discord Bot made for programmers and technology enthusiast!
 
 ### Future projects / goals  
 - Make my own cryptocurrency 💰
