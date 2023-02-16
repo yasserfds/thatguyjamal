@@ -25,7 +25,7 @@ __________                 __      ________.__       .__
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning [Rust]([https://dart.dev](https://www.rust-lang.org/)), [TypeScript](https://www.typescriptlang.org), and [MongoDB](https://www.mongodb.com)
+- 🌱 I’m currently learning [Rust]([https://dart.dev](https://www.rust-lang.org/), [TypeScript](https://www.typescriptlang.org), and [MongoDB](https://www.mongodb.com)
 - 👯 I’m looking to collaborate with other content creators and developers.
 - ⚡ For fun I love watching and reading anime, as well as playing video games and exploring outdoors.
 
