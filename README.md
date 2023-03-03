@@ -31,7 +31,7 @@ __________                 __      ________.__       .__
 
 ## Current Projects
 
-[Audio Lion](https://github.com/ThatGuyJamal/Audio-Lion) - A simple audio player for your desktop, built in rust!
+[Audio Lion](https://github.com/audio-lion-dev/Audio-Lion) - A simple audio player and downloader for your desktop, built in rust!
 
 [Code Goblin](https://github.com/ThatGuyJamal/Code-Goblin) - A Discord Bot made for programmers and technology enthusiast!
 
