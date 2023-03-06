@@ -23,20 +23,22 @@ __________                 __      ________.__       .__
         \/     \/     \/                 \/                
 ```
 
-## I'm a Student, Developer, and YouTuber!!
+## CS University Student and Self-Taught developer
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [TypeScript](https://www.typescriptlang.org), and [MongoDB](https://www.mongodb.com)
 - 👯 I’m looking to collaborate with other content creators and developers.
 - ⚡ For fun I love watching and reading anime, as well as playing video games and exploring outdoors.
 
-## Current Projects
+## Active Projects (2023)
 
 [Audio Lion](https://github.com/audio-lion-dev/Audio-Lion) - A simple audio player and downloader for your desktop, built in rust!
 
 [Code Goblin](https://github.com/ThatGuyJamal/Code-Goblin) - A Discord Bot made for programmers and technology enthusiast!
 
-### Future projects / goals  
-- Make my own cryptocurrency 💰
+### Future projects / goals in tech
+- Research AI / matchine learning with audio 🎼
+- Contribute to open source projects 🌐
+- Make my own cryptocurrency💰
 - Start my own company with other developers in the tech indestry 💼
 - Teach other developers programming 📺
 
@@ -52,7 +54,7 @@ __________                 __      ________.__       .__
 <!-- CSS for images -->
 <br />
 
-### Languages and Tools:
+### Languages and Tools I Use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
