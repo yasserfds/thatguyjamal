@@ -1,7 +1,7 @@
 ### Hi there, I'm Jamal - aka [ThatGuyJamal][website] 👋
 
 [![discord](https://img.shields.io/discord/991449362246934648?style=for-the-badge)](https://discord.com/invite/waxQWUH9z3)
-[![youtube](https://img.shields.io/youtube/channel/views/UCVOQobByo_2WISQf2037eXQ?style=for-the-badge)](https://www.youtube.com/channel/UCVOQobByo_2WISQf2037eXQ)
+[![youtube](https://img.shields.io/youtube/channel/views/UCVOQobByo_2WISQf2037eXQ?style=for-the-badge)](https://www.youtube.com/c/ThatGuyJamal)
 <!-- <img src="https://tokei.rs/b1/github/ThatGuyJamal/thatguyjamal?category=lines"></img> -->
 
 <img height="350" src="./assets/zero_two.svg" align="right"/>
@@ -31,9 +31,12 @@ __________                 __      ________.__       .__
 
 ## Active Projects (2023)
 
-[Audio Lion](https://github.com/audio-lion-dev/Audio-Lion) - A simple audio player and downloader for your desktop, built in rust!
+[The Code Library](https://github.com/ThatGuyJamal/The-Code-Library) - Search for developers, by developers!
 
 [Code Goblin](https://github.com/ThatGuyJamal/Code-Goblin) - A Discord Bot made for programmers and technology enthusiast!
+
+[Audio Lion](https://github.com/audio-lion-dev/Audio-Lion) - A simple audio player and downloader for your desktop, built in rust!
+
 
 ### Future projects / goals in tech
 - Research AI / matchine learning with audio 🎼
