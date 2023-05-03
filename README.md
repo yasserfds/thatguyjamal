@@ -31,7 +31,7 @@ __________                 __      ________.__       .__
 
 ## Active Projects (2023)
 
-[The Code Library](https://github.com/ThatGuyJamal/The-Code-Library) - Search for developers, by developers!
+[NeuraLabs AI](https://neuralabs.vercel.app) - Machine Learning Algoithms for all developers!
 
 [Code Goblin](https://github.com/ThatGuyJamal/Code-Goblin) - A Discord Bot made for programmers and technology enthusiast!
 
